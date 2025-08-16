@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+shap
+joblib
+matplotlib
+plotly
+statsmodels==0.14.2
